@@ -1,1 +1,3 @@
 # Heart_Failure_Clinical_Records-
+This analysis provides crucial insights into the factors influencing heart failure outcomes, particularly focusing on mortality. By leveraging Power BI’s capabilities, the project delivers actionable visualizations and measures that can guide healthcare professionals in identifying high-risk patients and tailoring interventions. The findings highlight the importance of monitoring serum creatinine, managing anaemia, and addressing lifestyle factors such as smoking to improve patient outcomes in heart failure management.
+Dataset Source : www.kaggle.com/datasets/nimapourmoradi/heart-failure-clinical-records
